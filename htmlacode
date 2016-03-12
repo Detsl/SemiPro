@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf8">
+	<title>SemiPro</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<body>
+
+	<div class="container"> <h1> SemiPro<sup>©</sup> </h1> 
+	<div class="header"> Become a Pro </div>
+	<div class="login"> Log-in </div> 
+	<div class="logout"> Log-out </div> 
+</div>
+<div class="menu-container">
+<div class="photoframe"> <img class="pic" src="https://pp.vk.me/c9650/u874264/-6/z_05acc5ef.jpg"><!--место для фотографии--></div>
+<div class=" sidebar-1" > 
+<span class="menu-left"> My story </span>
+<span class="menu-left"> My messages</span>
+<span class="menu-left"> My ranking </span>
+<span class="menu-left"> My playgrounds </span>
+<span class="menu-left"> My Photostory </span>
+<span class="menu-left"> My Team </span>
+<span class="menu-left"> World ranking </span>
+<span class="menu-left"> World playgrounds </span>
+<span class="menu-left"> My kicks </span> </div>
+<!--"Это часть кода на левую колонку , в которой будут ссылки на рейтинг пользователя, площадки, международные площадки, международный рейтин,это лучшая рекламная площадка в мире для спорт фирм" -->
+
+
+ 
+<div class=" sidebar-2">	<!-- история игрока, должны все пункты следовать один за другим рассказывая историю-->
+<span class="menu-center"> Name and nickname/рейтинг </span> <!--подкрепляем сюда твой рейтинг напротив имени-->
+<span class="menu-center bd"> Birth date </span> 
+<span class="menu-center ct"> City </span> 
+<span class="menu-center stry"> Story </span> 
+<span class="menu-center sports"> Sports </span> 
+<span class="menu-center skls"> Skills </span> 
+<span class="menu-center edctn"> Education</span> 
+<span class="menu-center map"> Playground map and status </span>
+</div>
+<!--"Колонна 2 будет отображать рассказ о себе. с полеме немного о себе, интересах, дате рождения, стране проживания(всё это коротко), далее будет карта с площадками и мини изображения на ней где ты играл(корона или звезда )отображая твой статус на этой площадке, ниже будет как стенка мои заметки My notes, в которых можно делится клипанами с ютуба вимео и прочих, выкладывать свои видео, и фото, писать статусы, цитаты, мысли. -->
+<div class="sidebar-3">	What's new </div><!--"зафиксить её фиксированным позиционированием, для того чтобы новые события-вызовы сопровождали тебя-->
+<div class="down-sidebar" > 
+	<div class="notes"> Notes </div></div>
+	<!--"будет как стенка мои заметки My notes, в которых можно делится клипанами с ютуба вимео и прочих, выкладывать свои видео, и фото, писать статусы, цитаты, мысли. -->
+
+ <div class="footer"> All rights reserved </div></div>
+
+
+
+
+
+
+
+</body>
+</head>
+</html>
